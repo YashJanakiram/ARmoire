@@ -898,4 +898,4 @@ See [`web-frontend/PHOTOWIZARD_ANALYSIS.md`](web-frontend/PHOTOWIZARD_ANALYSIS.m
 
 **Built with ❤️ for the future of fashion e-commerce**
 
-*Combining computer vision, deep learning, and modern web technologies to revolutionize online shopping.*
+*Combining computer vision, deep learning and modern web technologies to revolutionize online shopping.*
