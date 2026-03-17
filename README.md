@@ -828,8 +828,6 @@ curl -X POST "http://localhost:8000/virtual_tryon" \
 - [ ] Implement E2E tests with Playwright
 - [ ] Extract `useWizardNavigation` hook for step logic
 
-See [`web-frontend/PHOTOWIZARD_ANALYSIS.md`](web-frontend/PHOTOWIZARD_ANALYSIS.md) for detailed refactoring plan.
-
 ---
 
 ## 🤝 Contributing
